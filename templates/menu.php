@@ -13,6 +13,7 @@
 		<li class="nav_punkte_einzeln"><a  href="#article-6">DOWNLOADS</a></li>
 		<li class="nav_punkte_einzeln"><a  href="#article-5">VORSTAND</a></li>
 		<li class="nav_punkte_einzeln"><a  href="#article-3">SATZUNG</a></li>
+        <li class="nav_punkte_einzeln"><a  href="#article-3">SATZUNG</a></li>
 	</ul>
 </div>
 
